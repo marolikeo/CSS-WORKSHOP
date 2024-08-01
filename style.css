@@ -7,3 +7,27 @@ header nav ul{
 header nav ul li{
     margin: 20px;
 }
+.a-propos h2{
+    color: gold;
+}
+.travail h2{
+    color: blueviolet;
+}
+.cv h2{
+    color: lightgreen;
+}
+.contact h2{
+    color: darkorange;
+}
+.a-propos{
+    background-color: rgb(237, 237, 22);
+}
+.travail{
+    background-color: blueviolet;
+}
+.cv h2{
+    background-color: hotpink;
+}
+.contact h2{
+    background-color: brown;
+}
